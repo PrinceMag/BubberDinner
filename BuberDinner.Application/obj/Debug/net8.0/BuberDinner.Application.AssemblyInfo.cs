@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuberDinner.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b53f80086ee9cb7ccc188efcc79ff7f117de0ac6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4296cbd643a605924be659b36f30536e2bf6edb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuberDinner.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuberDinner.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
