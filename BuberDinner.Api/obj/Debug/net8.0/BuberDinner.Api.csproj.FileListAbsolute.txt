@@ -6,7 +6,13 @@ C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.dll
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.pdb
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
@@ -41,9 +47,3 @@ C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
