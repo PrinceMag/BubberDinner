@@ -1,3 +1,10 @@
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.AssemblyReference.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfoInputs.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfo.cs
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\appsettings.json
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.exe
@@ -26,13 +33,6 @@ C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Contracts.pdb
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.pdb
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.AssemblyReference.cache
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfoInputs.cache
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfo.cs
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\PrinceMagutshwa\Documents\GitHub\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.BuberDinner.Api.Microsoft.AspNetCore.StaticWebAssets.props
